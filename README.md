@@ -1,4 +1,4 @@
-#Angularapp
+#
 This is a responsive web site with mobile first approach and developed using a modern workflow
 ###Getting Started###
 
